@@ -4,4 +4,4 @@ Accenture Java Bootcamp <br>
 
 - Day 01 <br>
 - Day 02 <br>
-<a href="https://github.com/waff13/acn-btcmp/tree/master/src/Day03">- Day 03</a> <br>
+- <a href="https://github.com/waff13/acn-btcmp/tree/master/src/Day03">Day 03</a> <br>

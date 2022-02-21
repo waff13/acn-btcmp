@@ -231,7 +231,7 @@ public class Task03 {
 
         System.out.println("\nTask 16. Append text to existing file\n");
         String file = "src/Day03/dwarves.txt";
-        String lineToAdd = "Here be dragons!\n";
+        String lineToAdd = "\nHere be dragons!\n";
         FileWriter writer = new FileWriter(file, true);
         writer.append(lineToAdd);
         writer.close();

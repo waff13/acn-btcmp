@@ -8,3 +8,4 @@ Accenture Java Bootcamp <br>
 - <a href="https://github.com/waff13/acn-btcmp/tree/master/src/Day03">Day 03</a> (Collections, Input/Output) <br>
 - <a href="https://github.com/waff13/acn-btcmp/tree/master/src/Day04">Day 04</a> (Testing, JUnit, frameworks, Spring, REST API) <br>
 - <a href="https://github.com/waff13/acn-btcmp/tree/master/src/Day05">Day 05</a> (Logging, debugging, exceptions) <br>
+- <a href="https://github.com/waff13/acn-btcmp/tree/master/src/Day06">Day 06</a> (Databases, JDBC) <br>
